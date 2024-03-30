@@ -1,2 +1,12 @@
 # Austin-Housing-Project
-This repository contains the exploratory data analysis and predictive modelling of house prices in Austin, Texas. This project helps to showcase both my data analysis skills and data science skills via the use of models that help predict the house prices in Austin, Texas. 
+The prediction of house prices based on a variety of factors is a vital aspect of the real estate indistry. It is of importance to various stakeholders in the industry, such as real estate professionals, investors, and homebuyers. By gaining insights and understanding the factors that influence property values, stakeholders can make well informed decisions and achieve more successful outcomes in the ever competitive housing market. 
+
+## Dataset
+
+## Model Results
+
+## Packages 
+
+## Authors
+
+
